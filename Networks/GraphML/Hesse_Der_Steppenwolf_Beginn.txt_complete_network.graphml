@@ -1,0 +1,2799 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="edge_type" attr.type="string"/>
+<key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="edge" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="Harry Haller"/>
+<node id="einem heißen Bad"/>
+<node id="die liebe Wärme"/>
+<node id="all die entbehrlichen Briefe und Drucksachen"/>
+<node id="schöne, zarte, kostbare Federwölkchenmuster"/>
+<node id="Der Tag"/>
+<node id="die anderen Tage"/>
+<node id="sogenannte Kultur"/>
+<node id="Aktiengesellschaften"/>
+<node id="der zerstörten und von Aktiengesellschaften ausgesogenen Erde"/>
+<node id="ihrem verlogenen und gemeinen blechernen Jahrmarktsglanz"/>
+<node id="die Menschenwelt"/>
+<node id="einem gemäßigten, einem leidlich frohen, einem nahezu vergnügten Dankpsalm"/>
+<node id="seinen stillen, sanften, etwas mit Brom betäubten Zufriedenheitshalbundhalbgott"/>
+<node id="dieser zufriedenen Langeweile"/>
+<node id="dieser sehr dankenswerten Schmerzenslosigkeit"/>
+<node id="die Zufriedenheit"/>
+<node id="die laue fade Erträglichkeit sogenannter guter Tage"/>
+<node id="die verrostete Dankbarkeitsleier"/>
+<node id="einen recht teuflischen Schmerz"/>
+<node id="starken Gefühlen"/>
+<node id="dies abgetönte, flache, normierte und sterilisierte Leben"/>
+<node id="eine Kathedrale"/>
+<node id="verwegene Dummheiten"/>
+<node id="diese fette gedeihliche Zucht des Mittelmäßigen, Normalen, Durchschnittlichen"/>
+<node id="meinem bißchen Tagewerk"/>
+<node id="die Treppen"/>
+<node id="eines hochanständigen Dreifamilienmiethauses"/>
+<node id="der heimatlose Steppenwolf"/>
+<node id="der kleinbürgerlichen Welt"/>
+<node id="richtigen Bürgerhäusern"/>
+<node id="diese Atmosphäre"/>
+<node id="diese alten dummen Wege"/>
+<node id="mein Leben"/>
+<node id="diesen Geruch von Stille, Ordnung, Sauberkeit, Anstand und Zahmheit"/>
+<node id="meiner Mansarde"/>
+<node id="der Problematik des Menschseins"/>
+<node id="das sinnlos gewordene Menschenleben"/>
+<node id="einer Wohnung"/>
+<node id="kleinen Vorplatz einer Wohnung"/>
+<node id="der Araukarie"/>
+<node id="diesen kleinen Garten der Ordnung"/>
+<node id="ein Leben voll Anstand und Gesundheit"/>
+<node id="solche finstre und trübe Abende im Spätherbst"/>
+<node id="die Stimmungen der Einsamkeit und Melancholie"/>
+<node id="die feindliche, entblätterte Natur"/>
+<node id="all diese ungezählten Stunden und Tage"/>
+<node id="andre Stunden"/>
+<node id="eine herrliche alte Musik"/>
+<node id="des letzten Erlebnisses dieser Art"/>
+<node id="eine goldene göttliche Spur"/>
+<node id="Verse"/>
+<node id="dieser Menschen"/>
+<node id="ruppiger Eremit"/>
+<node id="den überfüllten Cafés bei schwüler aufdringlicher Musik"/>
+<node id="der eleganten Luxusstädte"/>
+<node id="deren Freuden"/>
+<node id="was hingegen mir in meinen seltnen Freudenstunden geschieht"/>
+<node id="eine alte graue Steinmauer"/>
+<node id="der innern Stadt"/>
+<node id="ein kleines hübsches Portal mit einem Spitzbogen"/>
+<node id="einer Lichtreklame"/>
+<node id="bewegliche bunte Buchstaben"/>
+<node id="Der Mann"/>
+<node id="Magisches Theater"/>
+<node id="Tanzabend"/>
+<node id="Normale"/>
+<node id="die kleine altväterische Kneipe"/>
+<node id="einen stillen Zuschauerplatz"/>
+<node id="Menschenmenge"/>
+<node id="Emailblech"/>
+<node id="ein guter solider Wein"/>
+<node id="richtige Philister"/>
+<node id="ihren Philisterwohnungen"/>
+<node id="öde Hausaltäre"/>
+<node id="blöden Zufriedenheitsgötzen"/>
+<node id="stille gedankenvolle Säufer über bankrotten Idealen"/>
+<node id="bankrotten Idealen"/>
+<node id="einer Damenkapelle"/>
+<node id="diese paar Stammgäste"/>
+<node id="einem halben Liter Elsässer"/>
+<node id="eines verantwortungslosen Menschen"/>
+<node id="die wilden heftigen Weine"/>
+<node id="ganz reine, leicht, bescheidene Landweine ohne besondere Namen"/>
+<node id="ein Stück gutes Brot"/>
+<node id="ein gutes Stück von der Leber"/>
+<node id="gesunden braven Menschen"/>
+<node id="ein paar ruhige Bürger"/>
+<node id="ratlose Steppenwölfe"/>
+<node id="einer Zeitung"/>
+<node id="die vergessene Melodie jenes Bläserpiano"/>
+<node id="ihre holde Blume"/>
+<node id="allen lieben Farben"/>
+<node id="Ophelia"/>
+<node id="der Borobudur"/>
+<node id="Die alten Bücher der Mönche"/>
+<node id="ihre geistvollen, ihre schelmischen und sehnsüchtigen Stimmen"/>
+<node id="dieser so sehr zufriedenen, so sehr bürgerlichen, so sehr geistlosen Zeit"/>
+<node id="der fleißigen Hausmutter im ersten Stock"/>
+<node id="ein kleiner hübscher Saal"/>
+<node id="ein paar gute Musiker"/>
+<node id="Händel"/>
+<node id="verwelkte Jahre"/>
+<node id="die gute Abendlaune"/>
+<node id="die kühle, edle Musik"/>
+<node id="Unabhängigkeit"/>
+<node id="Einsamkeit"/>
+<node id="eine heftige Jazzmusik"/>
+<node id="alle akademische Musik von heute"/>
+<node id="Die eine Hälfte dieser Musik"/>
+<node id="wirklicher Musik"/>
+<node id="all unsre Kunst"/>
+<node id="wirklicher Kultur"/>
+<node id="Neger"/>
+<node id="der ehemaligen echten Dichtung"/>
+<node id="wir alten Kenner und Verehrer des einstigen Europa"/>
+<node id="Seele"/>
+<node id="Narren"/>
+<node id="ihren habgierigen Firmenschildern"/>
+<node id="meine Gegend zwischen den Wallanlagen"/>
+<node id="ein kleines Büchlein"/>
+<node id="Der Steppenwolf"/>
+<node id="ein Reh"/>
+<node id="ihre zärtlichen Keulen"/>
+<node id="ein Hase"/>
+<node id="sein warmes Fleisch"/>
+<node id="meine liebe Frau"/>
+<node id="meine brennende Kehle"/>
+<node id="meine arme Seele"/>
+<node id="ein etwas sonderbares Gedicht"/>
+<node id="Zeiten der äußersten Verzweiflung"/>
+<node id="dieser Vorgang"/>
+<node id="ein gehegtes und besonders geliebtes Stück meines Lebens"/>
+<node id="Jahre"/>
+<node id="mühsamer Selbstzucht"/>
+<node id="ihren edlen hohen Sinn"/>
+<node id="wilden anstrengenden Reisen"/>
+<node id="neue Leiden"/>
+<node id="diese grausige Leere und Stille"/>
+<node id="diese tödliche Einschnürung, Vereinsamung und Beziehungslosigkeit"/>
+<node id="Staat"/>
+<node id="die Wichtigtuerei der Wissenschaft, der Zünfte, der Künste"/>
+<node id="den Leuten"/>
+<node id="all meinen so schmerzlichen Wandlungen"/>
+<node id="seinen Sorgenkindern"/>
+<node id="seinen heikelsten Kindern"/>
+<node id="der Selbstmord"/>
+<node id="der schmählichste Ausgang"/>
+<node id="des Edelmuts und Heroismus"/>
+<node id="einem kleinen, flüchtigen Schmerz"/>
+<node id="Don Quichotte"/>
+<node id="Der Morgen"/>
+<node id="die ganze kühle, helle, hart lächelnde Weisheit der Unsterblichen"/>
+<node id="meinen Entschluß"/>
+<node id="ein vorzügliches Mittel"/>
+<node id="eine hübsche Menge davon"/>
+<node id="meiner furchtbaren Enttäuschung"/>
+<node id="heftige Zuckungen des Magens"/>
+<node id="einer grauenhaften Nüchternheit"/>
+<node id="verbranntem, leerem Gehirn"/>
+<node id="lästigen Magenschmerzen"/>
+<node id="den Tod"/>
+<node id="dem witzigen Rezept des Steppenwolfbüchleins"/>
+<node id="jene Halluzination oder Vision an der Kirchenmauer"/>
+<node id="die verheißungsvolle Ankündigung"/>
+<node id="Friedhof"/>
+<node id="den übrigen Aasgeiern"/>
+<node id="Bäckermeister"/>
+<node id="diese unbehagliche Veranstaltung"/>
+<node id="eine dumme Grimasse"/>
+<node id="die graue Stadt"/>
+<node id="dem Pfarrer"/>
+<node id="ein junger Professor"/>
+<node id="meiner jämmerlichen Verfassung"/>
+<node id="die Szene"/>
+<node id="das kurzsichtige gute Gesicht"/>
+<node id="der andere Harry"/>
+<node id="der Welt"/>
+<node id="die beiden Harrys"/>
+<node id="eine Einladung"/>
+<node id="Sophies Reise von Memel nach Sachsen"/>
+<node id="einem schlichten Erdloch"/>
+<node id="liebe Mitchristen"/>
+<node id="dem trostlosen Anblick all der Kreuze und Tafeln aus Blech und Marmor"/>
+<node id="unsre Kulturwelt"/>
+<node id="seine Frau"/>
+<node id="ein Stück von Harry"/>
+<node id="den Gedanken an einen Abend bei freundlichen Gastgebern"/>
+<node id="mehr oder weniger erlogene Artigkeiten"/>
+<node id="diese ewig fortlaufende Mechanik"/>
+<node id="seine hoffnungslose Trauer und Öde"/>
+<node id="Der Abend"/>
+<node id="Goethe"/>
+<node id="diesem dämonischen Alten"/>
+<node id="ein kleines gerahmtes Bild"/>
+<node id="einem wahrhaft schönen alten Herrn"/>
+<node id="alle Bilder dieser Art"/>
+<node id="alle diese von fleißigen Kunsthandwerkern hergestellten holden Heilande, Apostel, Heroen, Geisteshelden und Staatsmänner"/>
+<node id="fleißigen Kunsthandwerkern"/>
+<node id="eine gewisse virtuose Gekonntheit"/>
+<node id="diese eitle und selbstgefällige Darstellung des alten Goethe"/>
+<node id="schön stilisierte Altmeister und nationale Größen"/>
+<node id="meinem guten Aussehen"/>
+<node id="der Situation"/>
+<node id="den denkbar hübschesten Ausdruck"/>
+<node id="eine Zeitung der Militaristen- und Kriegshetzepartei"/>
+<node id="einen Publizisten Haller"/>
+<node id="die feindlichen Länder"/>
+<node id="die Redaktion"/>
+<node id="diesen Schädling"/>
+<node id="jenes Scheusal"/>
+<node id="das schlimme Gefühl von Depression und Verzweiflung"/>
+<node id="einem wüsten Druck"/>
+<node id="einem würgend angstvollen Schicksalsschlag"/>
+<node id="eine aufrichtige Antwort"/>
+<node id="die Situation"/>
+<node id="den möglichst krassen Ausdruck"/>
+<node id="so angeregte und ergiebige Auseinandersetzungen mit Kollegen"/>
+<node id="dies"/>
+<node id="jene dumme, stiernackige, eines beschäftigungslosen Offiziers, nicht aber eines Gelehrten würdige Stellung eines reaktionären Blattes"/>
+<node id="die paar denkfähigen Menschen"/>
+<node id="diese unerquickliche Abendstunde"/>
+<node id="ein vollkommener Sieg"/>
+<node id="ein trostloser, beschämender, böser Tag"/>
+<node id="der Komödie"/>
+<node id="den Gichtanfällen"/>
+<node id="jenem schlimmen, hinter den Augäpfeln festgewurzelten, teuflisch jede Tätigkeit von Auge und Ohr aus einer Freude zur Qual verhexenden Kopfweh"/>
+<node id="diesem Familien- und Bürgermilieu"/>
+<node id="Anarchistische Abendunterhaltung"/>
+<node id="die Zigarettenreste"/>
+<node id="die Weinflaschen"/>
+<node id="die Marktgegend"/>
+<node id="eins der stillsten und ältesten Quartiere der Stadt"/>
+<node id="Jedermann"/>
+<node id="der andern Welt"/>
+<node id="einem Tanzlokal"/>
+<node id="Mozart"/>
+<node id="all unsre Scheinkultur"/>
+<node id="uns Europäern"/>
+<node id="Amerikaner"/>
+<node id="die flutende gesetzlose Welt der Seele, der Phantasie"/>
+<node id="zum Wegwerfen der Vernunft, der Hemmung, der Bürgerlichkeit"/>
+<edge source="Harry Haller" target="Harry Haller" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="1">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="2">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="3">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="4">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="5">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="6">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="7">
+  <data key="d0">epistemic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="8">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="9">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="10">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="11">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="12">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="13">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="14">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="15">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="16">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="17">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="18">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="19">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="20">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="21">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="22">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="23">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="24">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="25">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="26">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="27">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="28">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="29">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="30">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="31">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="32">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="33">
+  <data key="d0">epistemic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="34">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="35">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="36">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="37">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="38">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="39">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Harry Haller" id="40">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="einem heißen Bad" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die liebe Wärme" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="all die entbehrlichen Briefe und Drucksachen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="schöne, zarte, kostbare Federwölkchenmuster" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="schöne, zarte, kostbare Federwölkchenmuster" id="1">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Der Tag" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Der Tag" id="1">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Der Tag" id="2">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Der Tag" id="3">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Der Tag" id="4">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Der Tag" id="5">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Der Tag" id="6">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Der Tag" id="7">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die anderen Tage" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die anderen Tage" id="1">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die anderen Tage" id="2">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die anderen Tage" id="3">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die anderen Tage" id="4">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="sogenannte Kultur" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="sogenannte Kultur" id="1">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Aktiengesellschaften" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der zerstörten und von Aktiengesellschaften ausgesogenen Erde" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ihrem verlogenen und gemeinen blechernen Jahrmarktsglanz" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die Menschenwelt" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="einem gemäßigten, einem leidlich frohen, einem nahezu vergnügten Dankpsalm" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="seinen stillen, sanften, etwas mit Brom betäubten Zufriedenheitshalbundhalbgott" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dieser zufriedenen Langeweile" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dieser zufriedenen Langeweile" id="1">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dieser sehr dankenswerten Schmerzenslosigkeit" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die Zufriedenheit" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die laue fade Erträglichkeit sogenannter guter Tage" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die verrostete Dankbarkeitsleier" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="einen recht teuflischen Schmerz" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="einen recht teuflischen Schmerz" id="1">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="starken Gefühlen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dies abgetönte, flache, normierte und sterilisierte Leben" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dies abgetönte, flache, normierte und sterilisierte Leben" id="1">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine Kathedrale" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="verwegene Dummheiten" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="diese fette gedeihliche Zucht des Mittelmäßigen, Normalen, Durchschnittlichen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="meinem bißchen Tagewerk" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die Treppen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die Treppen" id="1">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die Treppen" id="2">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die Treppen" id="3">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eines hochanständigen Dreifamilienmiethauses" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der heimatlose Steppenwolf" id="0">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der kleinbürgerlichen Welt" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der kleinbürgerlichen Welt" id="1">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der kleinbürgerlichen Welt" id="2">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der kleinbürgerlichen Welt" id="3">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="richtigen Bürgerhäusern" id="0">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="richtigen Bürgerhäusern" id="1">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="richtigen Bürgerhäusern" id="2">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="richtigen Bürgerhäusern" id="3">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="richtigen Bürgerhäusern" id="4">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="diese Atmosphäre" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="diese alten dummen Wege" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="mein Leben" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="mein Leben" id="1">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="mein Leben" id="2">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="mein Leben" id="3">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="mein Leben" id="4">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="mein Leben" id="5">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="mein Leben" id="6">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="mein Leben" id="7">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="mein Leben" id="8">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="diesen Geruch von Stille, Ordnung, Sauberkeit, Anstand und Zahmheit" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="meiner Mansarde" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="meiner Mansarde" id="1">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="meiner Mansarde" id="2">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der Problematik des Menschseins" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="das sinnlos gewordene Menschenleben" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="das sinnlos gewordene Menschenleben" id="1">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="einer Wohnung" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="einer Wohnung" id="1">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="einer Wohnung" id="2">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="kleinen Vorplatz einer Wohnung" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="kleinen Vorplatz einer Wohnung" id="1">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der Araukarie" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der Araukarie" id="1">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der Araukarie" id="2">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der Araukarie" id="3">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="diesen kleinen Garten der Ordnung" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="diesen kleinen Garten der Ordnung" id="1">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein Leben voll Anstand und Gesundheit" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="solche finstre und trübe Abende im Spätherbst" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die Stimmungen der Einsamkeit und Melancholie" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die feindliche, entblätterte Natur" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="all diese ungezählten Stunden und Tage" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="andre Stunden" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine herrliche alte Musik" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="des letzten Erlebnisses dieser Art" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="des letzten Erlebnisses dieser Art" id="1">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine goldene göttliche Spur" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Verse" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Verse" id="1">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dieser Menschen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dieser Menschen" id="1">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dieser Menschen" id="2">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dieser Menschen" id="3">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Harry Haller" target="ruppiger Eremit" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="den überfüllten Cafés bei schwüler aufdringlicher Musik" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="den überfüllten Cafés bei schwüler aufdringlicher Musik" id="1">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der eleganten Luxusstädte" id="0">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="deren Freuden" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine alte graue Steinmauer" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine alte graue Steinmauer" id="1">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine alte graue Steinmauer" id="2">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine alte graue Steinmauer" id="3">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine alte graue Steinmauer" id="4">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der innern Stadt" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der innern Stadt" id="1">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein kleines hübsches Portal mit einem Spitzbogen" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="einer Lichtreklame" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="bewegliche bunte Buchstaben" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="bewegliche bunte Buchstaben" id="1">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="bewegliche bunte Buchstaben" id="2">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="bewegliche bunte Buchstaben" id="3">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Der Mann" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Magisches Theater" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Magisches Theater" id="1">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Magisches Theater" id="2">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Tanzabend" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Normale" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Normale" id="1">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Harry Haller" target="Normale" id="2">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Harry Haller" target="die kleine altväterische Kneipe" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die kleine altväterische Kneipe" id="1">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die kleine altväterische Kneipe" id="2">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="einen stillen Zuschauerplatz" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Menschenmenge" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Emailblech" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein guter solider Wein" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="richtige Philister" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="richtige Philister" id="1">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Harry Haller" target="ihren Philisterwohnungen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="öde Hausaltäre" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="blöden Zufriedenheitsgötzen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="stille gedankenvolle Säufer über bankrotten Idealen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="bankrotten Idealen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="einer Damenkapelle" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eines verantwortungslosen Menschen" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="einem halben Liter Elsässer" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="einem halben Liter Elsässer" id="1">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die wilden heftigen Weine" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ganz reine, leicht, bescheidene Landweine ohne besondere Namen" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein Stück gutes Brot" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein Stück gutes Brot" id="1">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein gutes Stück von der Leber" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="gesunden braven Menschen" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein paar ruhige Bürger" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ratlose Steppenwölfe" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="einer Zeitung" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die vergessene Melodie jenes Bläserpiano" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ihre holde Blume" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="allen lieben Farben" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Ophelia" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der Borobudur" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Die alten Bücher der Mönche" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Die alten Bücher der Mönche" id="1">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ihre geistvollen, ihre schelmischen und sehnsüchtigen Stimmen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dieser so sehr zufriedenen, so sehr bürgerlichen, so sehr geistlosen Zeit" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der fleißigen Hausmutter im ersten Stock" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein kleiner hübscher Saal" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein paar gute Musiker" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Händel" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="verwelkte Jahre" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die gute Abendlaune" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die kühle, edle Musik" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Unabhängigkeit" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Einsamkeit" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Einsamkeit" id="1">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine heftige Jazzmusik" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine heftige Jazzmusik" id="1">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine heftige Jazzmusik" id="2">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine heftige Jazzmusik" id="3">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine heftige Jazzmusik" id="4">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine heftige Jazzmusik" id="5">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine heftige Jazzmusik" id="6">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine heftige Jazzmusik" id="7">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine heftige Jazzmusik" id="8">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine heftige Jazzmusik" id="9">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine heftige Jazzmusik" id="10">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine heftige Jazzmusik" id="11">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine heftige Jazzmusik" id="12">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine heftige Jazzmusik" id="13">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="alle akademische Musik von heute" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Die eine Hälfte dieser Musik" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="wirklicher Musik" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="wirklicher Musik" id="1">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="all unsre Kunst" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="wirklicher Kultur" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Neger" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der ehemaligen echten Dichtung" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="wir alten Kenner und Verehrer des einstigen Europa" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Narren" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ihren habgierigen Firmenschildern" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="meine Gegend zwischen den Wallanlagen" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein kleines Büchlein" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein kleines Büchlein" id="1">
+  <data key="d0">epistemic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein kleines Büchlein" id="2">
+  <data key="d0">epistemic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein kleines Büchlein" id="3">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein kleines Büchlein" id="4">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein etwas sonderbares Gedicht" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein etwas sonderbares Gedicht" id="1">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Zeiten der äußersten Verzweiflung" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Zeiten der äußersten Verzweiflung" id="1">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dieser Vorgang" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dieser Vorgang" id="1">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dieser Vorgang" id="2">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dieser Vorgang" id="3">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dieser Vorgang" id="4">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dieser Vorgang" id="5">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dieser Vorgang" id="6">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dieser Vorgang" id="7">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dieser Vorgang" id="8">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dieser Vorgang" id="9">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dieser Vorgang" id="10">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dieser Vorgang" id="11">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein gehegtes und besonders geliebtes Stück meines Lebens" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Jahre" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="mühsamer Selbstzucht" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ihren edlen hohen Sinn" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="wilden anstrengenden Reisen" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="neue Leiden" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="diese grausige Leere und Stille" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="diese tödliche Einschnürung, Vereinsamung und Beziehungslosigkeit" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Staat" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die Wichtigtuerei der Wissenschaft, der Zünfte, der Künste" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="all meinen so schmerzlichen Wandlungen" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="all meinen so schmerzlichen Wandlungen" id="1">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="seinen Sorgenkindern" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="seinen heikelsten Kindern" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der Selbstmord" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der Selbstmord" id="1">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der schmählichste Ausgang" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="des Edelmuts und Heroismus" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="einem kleinen, flüchtigen Schmerz" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Don Quichotte" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Der Morgen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die ganze kühle, helle, hart lächelnde Weisheit der Unsterblichen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="meinen Entschluß" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="meinen Entschluß" id="1">
+  <data key="d0">epistemic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein vorzügliches Mittel" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein vorzügliches Mittel" id="1">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein vorzügliches Mittel" id="2">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein vorzügliches Mittel" id="3">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein vorzügliches Mittel" id="4">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein vorzügliches Mittel" id="5">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine hübsche Menge davon" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="meiner furchtbaren Enttäuschung" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="heftige Zuckungen des Magens" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="einer grauenhaften Nüchternheit" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="verbranntem, leerem Gehirn" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="lästigen Magenschmerzen" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="den Tod" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="den Tod" id="1">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dem witzigen Rezept des Steppenwolfbüchleins" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="jene Halluzination oder Vision an der Kirchenmauer" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die verheißungsvolle Ankündigung" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Friedhof" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="den übrigen Aasgeiern" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="den übrigen Aasgeiern" id="1">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="den übrigen Aasgeiern" id="2">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Bäckermeister" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="diese unbehagliche Veranstaltung" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine dumme Grimasse" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die graue Stadt" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dem Pfarrer" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dem Pfarrer" id="1">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein junger Professor" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein junger Professor" id="1">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein junger Professor" id="2">
+  <data key="d0">epistemic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein junger Professor" id="3">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein junger Professor" id="4">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein junger Professor" id="5">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein junger Professor" id="6">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein junger Professor" id="7">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein junger Professor" id="8">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein junger Professor" id="9">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein junger Professor" id="10">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein junger Professor" id="11">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein junger Professor" id="12">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein junger Professor" id="13">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein junger Professor" id="14">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein junger Professor" id="15">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein junger Professor" id="16">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Harry Haller" target="ein junger Professor" id="17">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Harry Haller" target="ein junger Professor" id="18">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Harry Haller" target="ein junger Professor" id="19">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Harry Haller" target="meiner jämmerlichen Verfassung" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die Szene" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="das kurzsichtige gute Gesicht" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der Welt" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der Welt" id="1">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der Welt" id="2">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die beiden Harrys" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine Einladung" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine Einladung" id="1">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Sophies Reise von Memel nach Sachsen" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="einem schlichten Erdloch" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="einem schlichten Erdloch" id="1">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="liebe Mitchristen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="liebe Mitchristen" id="1">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="liebe Mitchristen" id="2">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="liebe Mitchristen" id="3">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="liebe Mitchristen" id="4">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dem trostlosen Anblick all der Kreuze und Tafeln aus Blech und Marmor" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="unsre Kulturwelt" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="seine Frau" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="mehr oder weniger erlogene Artigkeiten" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="diese ewig fortlaufende Mechanik" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="diese ewig fortlaufende Mechanik" id="1">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="seine hoffnungslose Trauer und Öde" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Der Abend" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Goethe" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Goethe" id="1">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Goethe" id="2">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="diesem dämonischen Alten" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein kleines gerahmtes Bild" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein kleines gerahmtes Bild" id="1">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein kleines gerahmtes Bild" id="2">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein kleines gerahmtes Bild" id="3">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein kleines gerahmtes Bild" id="4">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein kleines gerahmtes Bild" id="5">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein kleines gerahmtes Bild" id="6">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein kleines gerahmtes Bild" id="7">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein kleines gerahmtes Bild" id="8">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="einem wahrhaft schönen alten Herrn" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="alle Bilder dieser Art" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="alle diese von fleißigen Kunsthandwerkern hergestellten holden Heilande, Apostel, Heroen, Geisteshelden und Staatsmänner" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="fleißigen Kunsthandwerkern" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine gewisse virtuose Gekonntheit" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="diese eitle und selbstgefällige Darstellung des alten Goethe" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="diese eitle und selbstgefällige Darstellung des alten Goethe" id="1">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="schön stilisierte Altmeister und nationale Größen" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der Situation" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="den denkbar hübschesten Ausdruck" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine Zeitung der Militaristen- und Kriegshetzepartei" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die feindlichen Länder" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="jenes Scheusal" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="einen Publizisten Haller" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="das schlimme Gefühl von Depression und Verzweiflung" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="einem wüsten Druck" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="einem würgend angstvollen Schicksalsschlag" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="eine aufrichtige Antwort" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die Situation" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die Situation" id="1">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="den möglichst krassen Ausdruck" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="den möglichst krassen Ausdruck" id="1">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="dies" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="jene dumme, stiernackige, eines beschäftigungslosen Offiziers, nicht aber eines Gelehrten würdige Stellung eines reaktionären Blattes" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="die paar denkfähigen Menschen" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Der Steppenwolf" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Der Steppenwolf" id="1">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Der Steppenwolf" id="2">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Harry Haller" target="Der Steppenwolf" id="3">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Harry Haller" target="diese unerquickliche Abendstunde" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein vollkommener Sieg" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="ein trostloser, beschämender, böser Tag" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="der Komödie" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Harry Haller" target="Jedermann" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Harry Haller" target="Jedermann" id="1">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Harry Haller" target="den Leuten" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Harry Haller" target="ein Stück von Harry" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Der Tag" target="die anderen Tage" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Der Tag" target="die anderen Tage" id="1">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Der Tag" target="die anderen Tage" id="2">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Der Tag" target="solche finstre und trübe Abende im Spätherbst" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die anderen Tage" target="Der Tag" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die anderen Tage" target="Der Tag" id="1">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die anderen Tage" target="Der Tag" id="2">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="dieser zufriedenen Langeweile" target="einen recht teuflischen Schmerz" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="dieser sehr dankenswerten Schmerzenslosigkeit" target="den Gichtanfällen" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="dieser sehr dankenswerten Schmerzenslosigkeit" target="jenem schlimmen, hinter den Augäpfeln festgewurzelten, teuflisch jede Tätigkeit von Auge und Ohr aus einer Freude zur Qual verhexenden Kopfweh" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="einen recht teuflischen Schmerz" target="dieser zufriedenen Langeweile" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die Treppen" target="meiner Mansarde" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die Treppen" target="der kleinbürgerlichen Welt" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die Treppen" target="die Marktgegend" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="der kleinbürgerlichen Welt" target="was hingegen mir in meinen seltnen Freudenstunden geschieht" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="der kleinbürgerlichen Welt" target="meiner Mansarde" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="der kleinbürgerlichen Welt" target="eine alte graue Steinmauer" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="der kleinbürgerlichen Welt" target="die Treppen" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="der kleinbürgerlichen Welt" target="der andern Welt" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="der kleinbürgerlichen Welt" target="mein Leben" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="mein Leben" target="ein Leben voll Anstand und Gesundheit" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="mein Leben" target="diesem Familien- und Bürgermilieu" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="mein Leben" target="eine goldene göttliche Spur" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="mein Leben" target="der kleinbürgerlichen Welt" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="diesen Geruch von Stille, Ordnung, Sauberkeit, Anstand und Zahmheit" target="die Zigarettenreste" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="diesen Geruch von Stille, Ordnung, Sauberkeit, Anstand und Zahmheit" target="die Weinflaschen" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="meiner Mansarde" target="einer Wohnung" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="meiner Mansarde" target="die Treppen" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="meiner Mansarde" target="kleinen Vorplatz einer Wohnung" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="meiner Mansarde" target="kleinen Vorplatz einer Wohnung" id="1">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="meiner Mansarde" target="der kleinbürgerlichen Welt" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="einer Wohnung" target="meiner Mansarde" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="kleinen Vorplatz einer Wohnung" target="meiner Mansarde" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="kleinen Vorplatz einer Wohnung" target="meiner Mansarde" id="1">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="ein Leben voll Anstand und Gesundheit" target="den Gichtanfällen" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="ein Leben voll Anstand und Gesundheit" target="mein Leben" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="solche finstre und trübe Abende im Spätherbst" target="Der Tag" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="all diese ungezählten Stunden und Tage" target="andre Stunden" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="andre Stunden" target="all diese ungezählten Stunden und Tage" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="eine goldene göttliche Spur" target="mein Leben" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Verse" target="ein etwas sonderbares Gedicht" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="dieser Menschen" target="Der Steppenwolf" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="dieser Menschen" target="Harry Haller" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="eine alte graue Steinmauer" target="der kleinbürgerlichen Welt" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="eine alte graue Steinmauer" target="einer Lichtreklame" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="eine alte graue Steinmauer" target="einem Tanzlokal" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="eine alte graue Steinmauer" target="ihren habgierigen Firmenschildern" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="einer Lichtreklame" target="eine alte graue Steinmauer" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Normale" target="Harry Haller" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Normale" target="Harry Haller" id="1">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die kleine altväterische Kneipe" target="die Marktgegend" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="richtige Philister" target="Harry Haller" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="diese paar Stammgäste" target="einem halben Liter Elsässer" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="die kühle, edle Musik" target="eine heftige Jazzmusik" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="eine heftige Jazzmusik" target="die kühle, edle Musik" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="eine heftige Jazzmusik" target="alle akademische Musik von heute" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="eine heftige Jazzmusik" target="Mozart" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="eine heftige Jazzmusik" target="wirklicher Musik" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="alle akademische Musik von heute" target="wirklicher Musik" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="alle akademische Musik von heute" target="wirklicher Musik" id="1">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="alle akademische Musik von heute" target="eine heftige Jazzmusik" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="wirklicher Musik" target="alle akademische Musik von heute" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="wirklicher Musik" target="alle akademische Musik von heute" id="1">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="wirklicher Musik" target="eine heftige Jazzmusik" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="wirklicher Kultur" target="all unsre Scheinkultur" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Neger" target="uns Europäern" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="wir alten Kenner und Verehrer des einstigen Europa" target="Seele" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="ihren habgierigen Firmenschildern" target="eine alte graue Steinmauer" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="ein kleines Büchlein" target="ein etwas sonderbares Gedicht" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Der Steppenwolf" target="ein Reh" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Der Steppenwolf" target="ein Reh" id="1">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Der Steppenwolf" target="ein Reh" id="2">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Der Steppenwolf" target="ihre zärtlichen Keulen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Der Steppenwolf" target="ein Hase" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Der Steppenwolf" target="sein warmes Fleisch" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Der Steppenwolf" target="meine liebe Frau" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Der Steppenwolf" target="meine brennende Kehle" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Der Steppenwolf" target="meine arme Seele" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Der Steppenwolf" target="dieser Menschen" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Der Steppenwolf" target="Harry Haller" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Der Steppenwolf" target="Harry Haller" id="1">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Der Steppenwolf" target="schön stilisierte Altmeister und nationale Größen" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="ein etwas sonderbares Gedicht" target="Verse" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="ein etwas sonderbares Gedicht" target="ein kleines Büchlein" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="dieser Vorgang" target="der Selbstmord" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="den Leuten" target="Harry Haller" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="den Leuten" target="Harry Haller" id="1">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="der Selbstmord" target="dieser Vorgang" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="ein junger Professor" target="Harry Haller" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="ein junger Professor" target="Harry Haller" id="1">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="ein junger Professor" target="Harry Haller" id="2">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="ein junger Professor" target="Harry Haller" id="3">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="ein junger Professor" target="Harry Haller" id="4">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="ein junger Professor" target="einen Publizisten Haller" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="ein junger Professor" target="einen Publizisten Haller" id="1">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="ein junger Professor" target="die Redaktion" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="ein junger Professor" target="diesen Schädling" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="ein junger Professor" target="so angeregte und ergiebige Auseinandersetzungen mit Kollegen" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="der andere Harry" target="Harry Haller" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="seine Frau" target="meinem guten Aussehen" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="ein Stück von Harry" target="den Gedanken an einen Abend bei freundlichen Gastgebern" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="ein Stück von Harry" target="ein junger Professor" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="ein Stück von Harry" target="Harry Haller" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="schön stilisierte Altmeister und nationale Größen" target="Der Steppenwolf" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="den Gichtanfällen" target="dieser sehr dankenswerten Schmerzenslosigkeit" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="den Gichtanfällen" target="ein Leben voll Anstand und Gesundheit" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="jenem schlimmen, hinter den Augäpfeln festgewurzelten, teuflisch jede Tätigkeit von Auge und Ohr aus einer Freude zur Qual verhexenden Kopfweh" target="dieser sehr dankenswerten Schmerzenslosigkeit" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="diesem Familien- und Bürgermilieu" target="mein Leben" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="diesem Familien- und Bürgermilieu" target="Anarchistische Abendunterhaltung" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Anarchistische Abendunterhaltung" target="diesem Familien- und Bürgermilieu" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die Zigarettenreste" target="diesen Geruch von Stille, Ordnung, Sauberkeit, Anstand und Zahmheit" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die Weinflaschen" target="diesen Geruch von Stille, Ordnung, Sauberkeit, Anstand und Zahmheit" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die Marktgegend" target="die kleine altväterische Kneipe" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die Marktgegend" target="eins der stillsten und ältesten Quartiere der Stadt" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die Marktgegend" target="die Treppen" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="eins der stillsten und ältesten Quartiere der Stadt" target="die Marktgegend" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Jedermann" target="Harry Haller" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Jedermann" target="Harry Haller" id="1">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="der andern Welt" target="der kleinbürgerlichen Welt" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="einem Tanzlokal" target="eine alte graue Steinmauer" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Mozart" target="eine heftige Jazzmusik" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="all unsre Scheinkultur" target="wirklicher Kultur" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="uns Europäern" target="Neger" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="uns Europäern" target="Amerikaner" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Amerikaner" target="uns Europäern" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die flutende gesetzlose Welt der Seele, der Phantasie" target="zum Wegwerfen der Vernunft, der Hemmung, der Bürgerlichkeit" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="zum Wegwerfen der Vernunft, der Hemmung, der Bürgerlichkeit" target="die flutende gesetzlose Welt der Seele, der Phantasie" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+</graph></graphml>

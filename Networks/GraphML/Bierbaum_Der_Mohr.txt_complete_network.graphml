@@ -1,0 +1,702 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="edge_type" attr.type="string"/>
+<key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="edge" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="der Offiziere des dort liegenden Bataillons"/>
+<node id="Hatziau"/>
+<node id="Verfluchtes Nest"/>
+<node id="Nameless Narrator1"/>
+<node id="Der eine"/>
+<node id="welcher Silbe"/>
+<node id="Der andere"/>
+<node id="einem einsamen Vokal"/>
+<node id="das feindliche Gezische und Gepruste der Majorität"/>
+<node id="dieses Konsonantengeprassel"/>
+<node id="die Zeit"/>
+<node id="den Sprechschnupfen"/>
+<node id="Willem"/>
+<node id="lebhaften Konsonantenentladungen"/>
+<node id="der Wirt"/>
+<node id="einem besseren Mohren"/>
+<node id="Frau Wirtin"/>
+<node id="Herr Major von Kipferle"/>
+<node id="ein Neger"/>
+<node id="ein berliner Neger"/>
+<node id="Dr. Bammser"/>
+<node id="die ganze Heftigkeit seines nationalen Temperaments"/>
+<node id="Der männliche Teil der Einwohnerschaft"/>
+<node id="die Deutschen"/>
+<node id="die Frauen"/>
+<node id="die Damen"/>
+<node id="den despektierlichsten Ausdrücken"/>
+<node id="Die gesamte weibliche Dienstbotenschaft des Hotels"/>
+<node id="die radikalsten tschechischen Nationalisten"/>
+<node id="die weibliche Natur"/>
+<node id="lebhafterer und ergiebigerer Besuch"/>
+<node id="die Offiziersdamen"/>
+<node id="Die Eingeborenen"/>
+<node id="einem Tremolo"/>
+<node id="Häuptlingstanz"/>
+<node id="giftiger, aber unsagbar schöner Blumen"/>
+<node id="Frau Major von Kipferle"/>
+<node id="Die Weiber"/>
+<node id="die deutschen und tschechischen Damen"/>
+<node id="Rohe Menschen"/>
+<node id="Das stärkere Geschlecht"/>
+<node id="einer derart hypernervösen Empfindlichkeit"/>
+<node id="Der gemeine Mann"/>
+<node id="Tschechisch"/>
+<node id="der gebildete Mann"/>
+<node id="das schöne Wort gemischtsprachig"/>
+<node id="Ehefrauen"/>
+<node id="gescheckte Babies"/>
+<node id="jede gehässige Auslegung"/>
+<node id="niederträchtigen Bemerkungen"/>
+<node id="sträfliche Sympathie"/>
+<node id="jene, national angesehen, lobenswerte Rassenantipathie"/>
+<node id="eine neue Mischrasse"/>
+<node id="gute Österreicher"/>
+<node id="der Friede zwischen den Nationen"/>
+<node id="die wüsten Alldeutschen"/>
+<node id="Böhmens"/>
+<node id="vernünftige Reden"/>
+<node id="Berlin"/>
+<node id="Afrika"/>
+<node id="das Kommandieren von Gardeleutnants"/>
+<node id="das Brüllen von Elefanten"/>
+<node id="Stechschritt"/>
+<node id="Bauch"/>
+<node id="den berliner Amorsälen"/>
+<node id="der trauten Negerhütte Kameruns"/>
+<node id="die Leidenschaften"/>
+<edge source="der Offiziere des dort liegenden Bataillons" target="Hatziau" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="der Offiziere des dort liegenden Bataillons" target="Verfluchtes Nest" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Der eine" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Der eine" id="1">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="welcher Silbe" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Der andere" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Der andere" id="1">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="einem einsamen Vokal" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="das feindliche Gezische und Gepruste der Majorität" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="dieses Konsonantengeprassel" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die Zeit" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="den Sprechschnupfen" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Willem" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Willem" id="1">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Willem" id="2">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Willem" id="3">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Willem" id="4">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Willem" id="5">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Willem" id="6">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Willem" id="7">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Willem" id="8">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Willem" id="9">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Willem" id="10">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Willem" id="11">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Willem" id="12">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Willem" id="13">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Willem" id="14">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Willem" id="15">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="lebhaften Konsonantenentladungen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Hatziau" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="einem besseren Mohren" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Frau Wirtin" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Frau Wirtin" id="1">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Dr. Bammser" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Dr. Bammser" id="1">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Dr. Bammser" id="2">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die ganze Heftigkeit seines nationalen Temperaments" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die Frauen" id="0">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die Frauen" id="1">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die Damen" id="0">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die Damen" id="1">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="den despektierlichsten Ausdrücken" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="ein Neger" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="der Wirt" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die radikalsten tschechischen Nationalisten" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die weibliche Natur" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="lebhafterer und ergiebigerer Besuch" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="einem Tremolo" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Häuptlingstanz" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="giftiger, aber unsagbar schöner Blumen" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="giftiger, aber unsagbar schöner Blumen" id="1">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Frau Major von Kipferle" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Die Weiber" id="0">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Rohe Menschen" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Der männliche Teil der Einwohnerschaft" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="einer derart hypernervösen Empfindlichkeit" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Der gemeine Mann" id="0">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Tschechisch" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="der gebildete Mann" id="0">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="das schöne Wort gemischtsprachig" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="gescheckte Babies" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="gescheckte Babies" id="1">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="jede gehässige Auslegung" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="niederträchtigen Bemerkungen" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="sträfliche Sympathie" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="jene, national angesehen, lobenswerte Rassenantipathie" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die wüsten Alldeutschen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="gute Österreicher" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Böhmens" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="vernünftige Reden" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Der eine" target="Der andere" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Der andere" target="Der eine" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Willem" target="Willem" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Willem" target="Willem" id="1">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Willem" target="Willem" id="2">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Willem" target="Die Eingeborenen" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="der Wirt" target="Willem" id="0">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="der Wirt" target="Willem" id="1">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="der Wirt" target="Willem" id="2">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="der Wirt" target="Frau Wirtin" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="der Wirt" target="Frau Wirtin" id="1">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Frau Wirtin" target="Willem" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Frau Wirtin" target="Häuptlingstanz" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Frau Wirtin" target="der Wirt" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Frau Wirtin" target="Frau Major von Kipferle" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Herr Major von Kipferle" target="Willem" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Herr Major von Kipferle" target="ein Neger" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Herr Major von Kipferle" target="ein berliner Neger" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Dr. Bammser" target="eine neue Mischrasse" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Dr. Bammser" target="eine neue Mischrasse" id="1">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Dr. Bammser" target="gute Österreicher" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Dr. Bammser" target="der Friede zwischen den Nationen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Dr. Bammser" target="Willem" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Dr. Bammser" target="Willem" id="1">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Der männliche Teil der Einwohnerschaft" target="die Deutschen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Der männliche Teil der Einwohnerschaft" target="die Frauen" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Der männliche Teil der Einwohnerschaft" target="die Frauen" id="1">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die Deutschen" target="die radikalsten tschechischen Nationalisten" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die Frauen" target="Willem" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="die Frauen" target="Willem" id="1">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="die Frauen" target="Willem" id="2">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="die Frauen" target="Willem" id="3">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="die Frauen" target="Willem" id="4">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="die Frauen" target="Der männliche Teil der Einwohnerschaft" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die Frauen" target="Der männliche Teil der Einwohnerschaft" id="1">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die Damen" target="Häuptlingstanz" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="die Damen" target="Die Weiber" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die Damen" target="Die Weiber" id="1">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Die gesamte weibliche Dienstbotenschaft des Hotels" target="Willem" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="die radikalsten tschechischen Nationalisten" target="die Deutschen" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die Offiziersdamen" target="Willem" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="die Offiziersdamen" target="Willem" id="1">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Die Eingeborenen" target="Willem" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Die Eingeborenen" target="Willem" id="1">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Frau Major von Kipferle" target="Frau Wirtin" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Die Weiber" target="die Damen" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Die Weiber" target="die Damen" id="1">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die deutschen und tschechischen Damen" target="Willem" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Das stärkere Geschlecht" target="einer derart hypernervösen Empfindlichkeit" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Der gemeine Mann" target="die Frauen" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="der gebildete Mann" target="die Frauen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Ehefrauen" target="Willem" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="vernünftige Reden" target="die Leidenschaften" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Berlin" target="Afrika" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Afrika" target="Berlin" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="das Kommandieren von Gardeleutnants" target="das Brüllen von Elefanten" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="das Brüllen von Elefanten" target="das Kommandieren von Gardeleutnants" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Stechschritt" target="Bauch" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Bauch" target="Stechschritt" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="den berliner Amorsälen" target="der trauten Negerhütte Kameruns" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="der trauten Negerhütte Kameruns" target="den berliner Amorsälen" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die Leidenschaften" target="vernünftige Reden" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+</graph></graphml>

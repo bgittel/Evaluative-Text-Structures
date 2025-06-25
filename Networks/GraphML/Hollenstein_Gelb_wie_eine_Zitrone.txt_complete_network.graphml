@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="edge_type" attr.type="string"/>
+<key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="edge" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="Nameless Narrator1"/>
+<node id="einer blauen, abgenutzten Arbeitshose"/>
+<node id="seiner harten Arbeit im düsteren Bergwerk"/>
+<node id="düsteren Bergwerk"/>
+<node id="diesem von Neonleuchten grell beleuchteten Raum"/>
+<node id="sein Leben"/>
+<node id="eine Tür"/>
+<node id="ein langer dunkler Gang"/>
+<node id="ein alter Mann"/>
+<node id="wunderschönen königlichen Gärten voller Blumen und Bäumen"/>
+<node id="orientalischen Basaren mit exotisch riechenden Gewürzen"/>
+<node id="Bergspitzen voller weissem Pulverschnee"/>
+<node id="alles Wunderbare und Interessante auf dieser Welt"/>
+<node id="einer besseren Welt"/>
+<node id="dieser Welt"/>
+<node id="Diese wenigen Minuten am Morgen"/>
+<node id="eines harten Arbeitstages"/>
+<node id="hundert andere Morgen"/>
+<node id="normale Türen"/>
+<node id="Geschichten von wunderschönen königlichen Gärten voller Blumen und Bäumen, orientalischen Basaren mit exotisch riechenden Gewürzen und Bergspitzen voller weissem Pulverschnee"/>
+<node id="dem siebten Schlag der Uhr"/>
+<node id="seinen Träumen"/>
+<edge source="Nameless Narrator1" target="einer blauen, abgenutzten Arbeitshose" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="einer blauen, abgenutzten Arbeitshose" id="1">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="seiner harten Arbeit im düsteren Bergwerk" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="düsteren Bergwerk" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="diesem von Neonleuchten grell beleuchteten Raum" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="sein Leben" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="eine Tür" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="eine Tür" id="1">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="eine Tür" id="2">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="eine Tür" id="3">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="eine Tür" id="4">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="ein langer dunkler Gang" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="ein langer dunkler Gang" id="1">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="ein langer dunkler Gang" id="2">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="dieser Welt" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Diese wenigen Minuten am Morgen" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="eines harten Arbeitstages" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="hundert andere Morgen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="seiner harten Arbeit im düsteren Bergwerk" target="einer besseren Welt" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="seiner harten Arbeit im düsteren Bergwerk" target="seinen Träumen" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="eine Tür" target="normale Türen" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="eine Tür" target="normale Türen" id="1">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="eine Tür" target="ein langer dunkler Gang" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="eine Tür" target="ein langer dunkler Gang" id="1">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="eine Tür" target="ein langer dunkler Gang" id="2">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="ein langer dunkler Gang" target="eine Tür" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="ein langer dunkler Gang" target="eine Tür" id="1">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="ein langer dunkler Gang" target="eine Tür" id="2">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="ein langer dunkler Gang" target="Geschichten von wunderschönen königlichen Gärten voller Blumen und Bäumen, orientalischen Basaren mit exotisch riechenden Gewürzen und Bergspitzen voller weissem Pulverschnee" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="ein alter Mann" target="eine Tür" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="ein alter Mann" target="eine Tür" id="1">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="ein alter Mann" target="wunderschönen königlichen Gärten voller Blumen und Bäumen" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="ein alter Mann" target="orientalischen Basaren mit exotisch riechenden Gewürzen" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="ein alter Mann" target="Bergspitzen voller weissem Pulverschnee" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="ein alter Mann" target="alles Wunderbare und Interessante auf dieser Welt" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="ein alter Mann" target="einer besseren Welt" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="ein alter Mann" target="dieser Welt" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="ein alter Mann" target="dieser Welt" id="1">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="ein alter Mann" target="seiner harten Arbeit im düsteren Bergwerk" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="einer besseren Welt" target="seiner harten Arbeit im düsteren Bergwerk" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Diese wenigen Minuten am Morgen" target="dem siebten Schlag der Uhr" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="normale Türen" target="eine Tür" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="normale Türen" target="eine Tür" id="1">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Geschichten von wunderschönen königlichen Gärten voller Blumen und Bäumen, orientalischen Basaren mit exotisch riechenden Gewürzen und Bergspitzen voller weissem Pulverschnee" target="ein langer dunkler Gang" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="dem siebten Schlag der Uhr" target="Diese wenigen Minuten am Morgen" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="seinen Träumen" target="seiner harten Arbeit im düsteren Bergwerk" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+</graph></graphml>

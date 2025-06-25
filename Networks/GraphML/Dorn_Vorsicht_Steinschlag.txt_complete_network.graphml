@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="edge_type" attr.type="string"/>
+<key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="edge" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="Nameless Narrator1"/>
+<node id="Der große Sassen"/>
+<node id="angenehm gedämpftem Licht"/>
+<node id="seinen mächtigen Körper"/>
+<node id="Sein Kopf"/>
+<node id="Nona"/>
+<node id="Mein Werk"/>
+<node id="Sassens weiße, fleischige Finger"/>
+<node id="Sassens Gesicht"/>
+<node id="einer verödeten Leinwand"/>
+<node id="ein Bild"/>
+<node id="denkmälernen Antlitz"/>
+<node id="eine respektvoll erschütterte Welt"/>
+<edge source="Nameless Narrator1" target="Der große Sassen" id="0">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Der große Sassen" id="1">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Der große Sassen" id="2">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Der große Sassen" id="3">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Der große Sassen" id="4">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Der große Sassen" id="5">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Der große Sassen" id="6">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Der große Sassen" id="7">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Der große Sassen" id="8">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="angenehm gedämpftem Licht" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="seinen mächtigen Körper" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Sein Kopf" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Sassens weiße, fleischige Finger" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Sassens Gesicht" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="einer verödeten Leinwand" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="ein Bild" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="denkmälernen Antlitz" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="eine respektvoll erschütterte Welt" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Der große Sassen" target="Nona" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Der große Sassen" target="Nona" id="1">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Der große Sassen" target="Nona" id="2">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Der große Sassen" target="Nona" id="3">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Der große Sassen" target="Nona" id="4">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Der große Sassen" target="Nona" id="5">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Der große Sassen" target="Nona" id="6">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Der große Sassen" target="Der große Sassen" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Der große Sassen" target="Der große Sassen" id="1">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Nona" target="Mein Werk" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nona" target="Der große Sassen" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Nona" target="Der große Sassen" id="1">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Nona" target="Der große Sassen" id="2">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Nona" target="Der große Sassen" id="3">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Nona" target="Der große Sassen" id="4">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Nona" target="Der große Sassen" id="5">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+</graph></graphml>

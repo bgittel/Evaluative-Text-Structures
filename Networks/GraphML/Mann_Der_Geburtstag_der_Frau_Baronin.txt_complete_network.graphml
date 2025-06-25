@@ -1,0 +1,517 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="edge_type" attr.type="string"/>
+<key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="edge" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="Nameless Narrator1"/>
+<node id="einen kleinen Spaziergang"/>
+<node id="jene angenehme Gegend"/>
+<node id="der engen, schwülen Stadt"/>
+<node id="angemessenen Zwischenräumen"/>
+<node id="die Villen der vornehmen Welt"/>
+<node id="das allerliebste kleine Haus"/>
+<node id="ein reizender Garten"/>
+<node id="dem eigentümlichen Dufte des wilden Weines"/>
+<node id="des wilden Weines"/>
+<node id="Nanette"/>
+<node id="das Geschäft des Reinigens der Zimmer"/>
+<node id="wir"/>
+<node id="eine sehr schöne Gewohnheit"/>
+<node id="der enorm hohe Col"/>
+<node id="Den sehr gewählten Anzug"/>
+<node id="Herr von Strohwitz"/>
+<node id="die blühenden Wangen"/>
+<node id="die etwas täppischen Liebkosungen des jungen Herrn"/>
+<node id="Baronin C."/>
+<node id="neues Pferd"/>
+<node id="ebenso kapitales Frühstück"/>
+<node id="das heutige Menü"/>
+<node id="ein zierlicher Abreißkalender"/>
+<node id="anregende Lektüre"/>
+<node id="die sogenannte &quot;schöne Frau&quot;"/>
+<node id="die »eleganten Plauderer« der Feuilletons"/>
+<node id="dieses journalistische Hirngespinst"/>
+<node id="beliebter Ausdrücke jener schon erwähnten Plauderer"/>
+<node id="eine junonische Gestalt"/>
+<node id="jener gewissen Farbe des blonden Haares"/>
+<node id="Der Geist der Baronin"/>
+<node id="einem so entsetzlich abgeschmackten Gecken"/>
+<node id="den entsetzlich stillen Sommer"/>
+<node id="ein angenehmer Gedanke"/>
+<node id="ein freundliches Lächeln"/>
+<node id="Mein Geburtstag"/>
+<node id="Gräfin Z."/>
+<node id="ihr häßliches Fräulein Tochter"/>
+<node id="Baron Y."/>
+<node id="jener Damen"/>
+<node id="Bankier S."/>
+<node id="Fräulein von K."/>
+<node id="Sein verlegenes Räuspern"/>
+<node id="bitterem Lachen"/>
+<node id="das obligate Bukett"/>
+<edge source="Nameless Narrator1" target="einen kleinen Spaziergang" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="jene angenehme Gegend" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="der engen, schwülen Stadt" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="der engen, schwülen Stadt" id="1">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="angemessenen Zwischenräumen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die Villen der vornehmen Welt" id="0">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="das allerliebste kleine Haus" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="ein reizender Garten" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="ein reizender Garten" id="1">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="dem eigentümlichen Dufte des wilden Weines" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="des wilden Weines" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Nanette" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Nanette" id="1">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Nanette" id="2">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Nanette" id="3">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="das Geschäft des Reinigens der Zimmer" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="wir" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="eine sehr schöne Gewohnheit" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="der enorm hohe Col" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Den sehr gewählten Anzug" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Herr von Strohwitz" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Herr von Strohwitz" id="1">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Herr von Strohwitz" id="2">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Herr von Strohwitz" id="3">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Herr von Strohwitz" id="4">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Herr von Strohwitz" id="5">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die blühenden Wangen" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die etwas täppischen Liebkosungen des jungen Herrn" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Baronin C." id="0">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Baronin C." id="1">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Baronin C." id="2">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Baronin C." id="3">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Baronin C." id="4">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Baronin C." id="5">
+  <data key="d0">epistemic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Baronin C." id="6">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Baronin C." id="7">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Baronin C." id="8">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Baronin C." id="9">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="ein zierlicher Abreißkalender" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="ein zierlicher Abreißkalender" id="1">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="anregende Lektüre" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="ebenso kapitales Frühstück" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die sogenannte &quot;schöne Frau&quot;" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die »eleganten Plauderer« der Feuilletons" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="dieses journalistische Hirngespinst" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="beliebter Ausdrücke jener schon erwähnten Plauderer" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="eine junonische Gestalt" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="jener gewissen Farbe des blonden Haares" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Der Geist der Baronin" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="einem so entsetzlich abgeschmackten Gecken" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="ein angenehmer Gedanke" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="ein freundliches Lächeln" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Baron Y." id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Sein verlegenes Räuspern" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="bitterem Lachen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="jene angenehme Gegend" target="der engen, schwülen Stadt" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="jene angenehme Gegend" target="der engen, schwülen Stadt" id="1">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="der engen, schwülen Stadt" target="jene angenehme Gegend" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="der engen, schwülen Stadt" target="jene angenehme Gegend" id="1">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Herr von Strohwitz" target="Baronin C." id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Herr von Strohwitz" target="Baronin C." id="1">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Herr von Strohwitz" target="Baronin C." id="2">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Herr von Strohwitz" target="Baronin C." id="3">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Herr von Strohwitz" target="Baronin C." id="4">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Herr von Strohwitz" target="Baronin C." id="5">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Herr von Strohwitz" target="Baronin C." id="6">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Herr von Strohwitz" target="Baronin C." id="7">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Herr von Strohwitz" target="Baronin C." id="8">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Herr von Strohwitz" target="Baronin C." id="9">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Herr von Strohwitz" target="neues Pferd" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Herr von Strohwitz" target="ebenso kapitales Frühstück" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Herr von Strohwitz" target="das heutige Menü" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Baronin C." target="den entsetzlich stillen Sommer" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Baronin C." target="Mein Geburtstag" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Baronin C." target="Baronin C." id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Baronin C." target="Baronin C." id="1">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Baronin C." target="Baronin C." id="2">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Baronin C." target="Baronin C." id="3">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Baronin C." target="Baronin C." id="4">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Baronin C." target="Gräfin Z." id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Baronin C." target="ihr häßliches Fräulein Tochter" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Baronin C." target="jener Damen" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Baronin C." target="Bankier S." id="0">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Baronin C." target="Fräulein von K." id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Baronin C." target="Fräulein von K." id="1">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Baronin C." target="Herr von Strohwitz" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Baronin C." target="Herr von Strohwitz" id="1">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Baronin C." target="Herr von Strohwitz" id="2">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Baronin C." target="Herr von Strohwitz" id="3">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Baronin C." target="Herr von Strohwitz" id="4">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Baronin C." target="Herr von Strohwitz" id="5">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Baronin C." target="Herr von Strohwitz" id="6">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Baronin C." target="Herr von Strohwitz" id="7">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Baronin C." target="das obligate Bukett" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Baronin C." target="die »eleganten Plauderer« der Feuilletons" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die »eleganten Plauderer« der Feuilletons" target="Baronin C." id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+</graph></graphml>

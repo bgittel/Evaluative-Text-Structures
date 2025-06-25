@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="edge_type" attr.type="string"/>
+<key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="edge" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="John"/>
+<node id="dort"/>
+<node id="Alice"/>
+<node id="der junge Mensch"/>
+<node id="der alte Mensch"/>
+<node id="Nameless Narrator1"/>
+<node id="das Geschäft"/>
+<node id="Ein schöner weißer Stoff mit kleinen blauen Punkten"/>
+<node id="früher"/>
+<node id="jetzt"/>
+<node id="hier"/>
+<node id="Erdmuthe Gauptate"/>
+<edge source="John" target="dort" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="John" target="Alice" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="John" target="Erdmuthe Gauptate" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="dort" target="hier" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Alice" target="dort" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Alice" target="der junge Mensch" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Alice" target="der alte Mensch" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Alice" target="John" id="0">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Alice" target="Erdmuthe Gauptate" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="der junge Mensch" target="der alte Mensch" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="der alte Mensch" target="der junge Mensch" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Nameless Narrator1" target="das Geschäft" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Ein schöner weißer Stoff mit kleinen blauen Punkten" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="früher" target="jetzt" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="jetzt" target="früher" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="hier" target="dort" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Erdmuthe Gauptate" target="John" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Erdmuthe Gauptate" target="Alice" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+</graph></graphml>

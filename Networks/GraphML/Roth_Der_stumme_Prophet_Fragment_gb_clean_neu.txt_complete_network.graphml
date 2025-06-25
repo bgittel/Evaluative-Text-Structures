@@ -1,0 +1,846 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="edge_type" attr.type="string"/>
+<key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="edge" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="Nameless Narrator1"/>
+<node id="der Einsamkeit"/>
+<node id="die Krankheit"/>
+<node id="das wunderbar täuschende Gefühl"/>
+<node id="die Kraft"/>
+<node id="Die Geliebte"/>
+<node id="Friedrich Kargan"/>
+<node id="ein kleines kokettes Opfer"/>
+<node id="häßliche Gegenstände"/>
+<node id="Die Genossen"/>
+<node id="eines Bettlers"/>
+<node id="die Wanderung"/>
+<node id="eine sogenannte Gemeinheit"/>
+<node id="der Welt"/>
+<node id="die bürgerliche Gesellschaft"/>
+<node id="ihre revolutionären Gegner"/>
+<node id="Zynismus"/>
+<node id="eine reaktionäre Polizei"/>
+<node id="furchtsamen Fabrikanten"/>
+<node id="Möbelstücke"/>
+<node id="die Schätze der Vergangenheit"/>
+<node id="die Zeitungen"/>
+<node id="den Restaurants"/>
+<node id="Volk"/>
+<node id="die armen Lokale"/>
+<node id="die Freuden der Armut"/>
+<node id="Junge Männer in breiten wallenden Hosen mit wattierten Schultern"/>
+<node id="Der Fußball"/>
+<node id="des jungen Arbeiters wie die des jungen Bankiersohnes"/>
+<node id="das Leben"/>
+<node id="einer Lichtreklame"/>
+<node id="eines großen unheimlichen Brandes"/>
+<node id="seiner schönen Täuschungen"/>
+<node id="ein kluger Mensch"/>
+<node id="Frauen"/>
+<node id="langsamen Greisen"/>
+<node id="Tage"/>
+<node id="die einfachen, unzerstörbaren Schönheiten"/>
+<node id="dem frommen, ländlichen Gebimmel ihrer Schellen"/>
+<node id="der sauber aufgeschichteten Kohlbündel"/>
+<node id="fröhliche Märsche"/>
+<node id="Die Ziehharmonika"/>
+<node id="einen Keller"/>
+<node id="Herr von Derschatta"/>
+<node id="Die andern"/>
+<node id="Hilde"/>
+<node id="ein harmloseres Wie"/>
+<node id="Derschattas Wachsamkeit"/>
+<node id="Mensch"/>
+<node id="der einen Bewegung"/>
+<node id="gewissenhafter Sorgfalt"/>
+<node id="Herr von Maerker"/>
+<node id="Witze"/>
+<node id="ihre Zeit"/>
+<node id="eine große Zeit Europas"/>
+<node id="den Professoren"/>
+<node id="Wilson"/>
+<node id="ein weites und friedliches Land"/>
+<node id="die dümmste und männlichste aller Fragen"/>
+<node id="die unvermeidliche Antwort"/>
+<node id="die sterblichen und ewigen Freuden"/>
+<node id="gefährliche Situationen"/>
+<node id="Man"/>
+<node id="ein schnelles Hin und Wider von leeren Worten ohne Sinn"/>
+<node id="Berzejew"/>
+<node id="die Verbannung"/>
+<node id="einem ewigen Kurierdienst"/>
+<node id="Sibirien"/>
+<node id="einer unmenschlichen und technisch vollkommenen Zukunft"/>
+<node id="Flugzeug"/>
+<node id="Sichel und Hammer"/>
+<node id="meistgefürchteten Gebäude von Moskau"/>
+<node id="Savelli"/>
+<node id="Solowetzk"/>
+<node id="Die Ufer"/>
+<node id="das Kloster"/>
+<node id="Kapturak"/>
+<node id="Parthagener"/>
+<node id="Alja"/>
+<node id="Baranowicz"/>
+<node id="der kümmerlichen Tage"/>
+<node id="den enttäuschten Männern"/>
+<node id="einer neuen Zeit"/>
+<node id="den faulen Geruch von Wasser und Fischen in den gewundenen Gassen alter Hafenstädte"/>
+<node id="den paradiesischen Glanz der Spiegel in den Kellern der geschminkten Mädchen und der blauen Matrosen"/>
+<node id="das schöne Brausen der weiten Straßen und Plätze, der Flüsse und Seen aus Asphalt"/>
+<node id="den Bahnhöfen"/>
+<node id="die harte und stolze Wehmut der Einsamen"/>
+<node id="andere"/>
+<node id="in hundert oder zweihundert Jahren"/>
+<node id="die großen Städte der zivilisierten Welt"/>
+<node id="Rußland"/>
+<edge source="Nameless Narrator1" target="der Einsamkeit" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="der Einsamkeit" id="1">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="der Einsamkeit" id="2">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="der Einsamkeit" id="3">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="der Einsamkeit" id="4">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die Krankheit" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die Krankheit" id="1">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="das wunderbar täuschende Gefühl" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die Kraft" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Die Geliebte" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Friedrich Kargan" id="0">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Friedrich Kargan" id="1">
+  <data key="d0">epistemic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Friedrich Kargan" id="2">
+  <data key="d0">epistemic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Friedrich Kargan" id="3">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Friedrich Kargan" id="4">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="eine reaktionäre Polizei" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="furchtsamen Fabrikanten" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="ihre revolutionären Gegner" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="ihre revolutionären Gegner" id="1">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Möbelstücke" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die Schätze der Vergangenheit" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die Zeitungen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="den Restaurants" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Volk" id="0">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Volk" id="1">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die armen Lokale" id="0">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die Freuden der Armut" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Junge Männer in breiten wallenden Hosen mit wattierten Schultern" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Der Fußball" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="des jungen Arbeiters wie die des jungen Bankiersohnes" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="das Leben" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="das Leben" id="1">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="einer Lichtreklame" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="eines großen unheimlichen Brandes" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="seiner schönen Täuschungen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Frauen" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="langsamen Greisen" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Tage" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die einfachen, unzerstörbaren Schönheiten" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="dem frommen, ländlichen Gebimmel ihrer Schellen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="der sauber aufgeschichteten Kohlbündel" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="fröhliche Märsche" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Die Ziehharmonika" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Die Ziehharmonika" id="1">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Die Ziehharmonika" id="2">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Die Ziehharmonika" id="3">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="einen Keller" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Herr von Derschatta" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Herr von Derschatta" id="1">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Herr von Derschatta" id="2">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Die andern" id="0">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Hilde" id="0">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Hilde" id="1">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Hilde" id="2">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Hilde" id="3">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Hilde" id="4">
+  <data key="d0">epistemic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Hilde" id="5">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Hilde" id="6">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Hilde" id="7">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Hilde" id="8">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="ein harmloseres Wie" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Derschattas Wachsamkeit" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="der einen Bewegung" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="gewissenhafter Sorgfalt" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Herr von Maerker" id="0">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Herr von Maerker" id="1">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Herr von Maerker" id="2">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Herr von Maerker" id="3">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Witze" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="ihre Zeit" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="den Professoren" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="ein weites und friedliches Land" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die dümmste und männlichste aller Fragen" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die unvermeidliche Antwort" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die sterblichen und ewigen Freuden" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="ein schnelles Hin und Wider von leeren Worten ohne Sinn" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die Verbannung" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="einem ewigen Kurierdienst" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="einer unmenschlichen und technisch vollkommenen Zukunft" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Flugzeug" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Sichel und Hammer" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="meistgefürchteten Gebäude von Moskau" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Kapturak" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Alja" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="Baranowicz" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="der kümmerlichen Tage" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="den enttäuschten Männern" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="einer neuen Zeit" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="den faulen Geruch von Wasser und Fischen in den gewundenen Gassen alter Hafenstädte" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="den faulen Geruch von Wasser und Fischen in den gewundenen Gassen alter Hafenstädte" id="1">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="den paradiesischen Glanz der Spiegel in den Kellern der geschminkten Mädchen und der blauen Matrosen" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="das schöne Brausen der weiten Straßen und Plätze, der Flüsse und Seen aus Asphalt" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="den Bahnhöfen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Nameless Narrator1" target="die harte und stolze Wehmut der Einsamen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Friedrich Kargan" target="ein kleines kokettes Opfer" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Friedrich Kargan" target="häßliche Gegenstände" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Friedrich Kargan" target="Die Geliebte" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Friedrich Kargan" target="Die Genossen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Friedrich Kargan" target="eines Bettlers" id="0">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Friedrich Kargan" target="Friedrich Kargan" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Friedrich Kargan" target="Friedrich Kargan" id="1">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Friedrich Kargan" target="Friedrich Kargan" id="2">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Friedrich Kargan" target="Friedrich Kargan" id="3">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Friedrich Kargan" target="die Krankheit" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Friedrich Kargan" target="die Wanderung" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Friedrich Kargan" target="eine sogenannte Gemeinheit" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Friedrich Kargan" target="der Welt" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Friedrich Kargan" target="ein kluger Mensch" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Friedrich Kargan" target="Mensch" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Friedrich Kargan" target="Hilde" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Friedrich Kargan" target="Hilde" id="1">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Friedrich Kargan" target="Herr von Maerker" id="0">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Friedrich Kargan" target="ein weites und friedliches Land" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Friedrich Kargan" target="gefährliche Situationen" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Friedrich Kargan" target="Man" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Friedrich Kargan" target="Berzejew" id="0">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Friedrich Kargan" target="Berzejew" id="1">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Friedrich Kargan" target="andere" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Friedrich Kargan" target="Herr von Derschatta" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die bürgerliche Gesellschaft" target="Friedrich Kargan" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="die bürgerliche Gesellschaft" target="ihre revolutionären Gegner" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die bürgerliche Gesellschaft" target="ihre revolutionären Gegner" id="1">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die bürgerliche Gesellschaft" target="ihre revolutionären Gegner" id="2">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="ihre revolutionären Gegner" target="Zynismus" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="ihre revolutionären Gegner" target="die bürgerliche Gesellschaft" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="ihre revolutionären Gegner" target="die bürgerliche Gesellschaft" id="1">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="ihre revolutionären Gegner" target="die bürgerliche Gesellschaft" id="2">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Der Fußball" target="Sichel und Hammer" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Herr von Derschatta" target="Friedrich Kargan" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Herr von Derschatta" target="Die andern" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Die andern" target="Herr von Derschatta" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Hilde" target="Friedrich Kargan" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Hilde" target="Friedrich Kargan" id="1">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Hilde" target="Hilde" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Herr von Maerker" target="Mensch" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Herr von Maerker" target="Witze" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Herr von Maerker" target="eine große Zeit Europas" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Herr von Maerker" target="Wilson" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="ihre Zeit" target="in hundert oder zweihundert Jahren" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="ihre Zeit" target="einer neuen Zeit" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Berzejew" target="die Verbannung" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Berzejew" target="Sibirien" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Berzejew" target="Friedrich Kargan" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Flugzeug" target="Sichel und Hammer" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Sichel und Hammer" target="Flugzeug" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Sichel und Hammer" target="Der Fußball" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Savelli" target="Solowetzk" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Savelli" target="Die Ufer" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Savelli" target="das Kloster" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Kapturak" target="Parthagener" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="einer neuen Zeit" target="ihre Zeit" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="andere" target="Friedrich Kargan" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="in hundert oder zweihundert Jahren" target="ihre Zeit" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="die großen Städte der zivilisierten Welt" target="Rußland" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Rußland" target="die großen Städte der zivilisierten Welt" id="0">
+  <data key="d0">Feature Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+</graph></graphml>

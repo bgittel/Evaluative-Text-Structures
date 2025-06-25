@@ -1,0 +1,584 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="edge_type" attr.type="string"/>
+<key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="edge" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="Rotpeter"/>
+<node id="Hohe Herren von der Akademie"/>
+<node id="vortrefflichen Menschen"/>
+<node id="jeden Eigensinn"/>
+<node id="Verzicht auf jeden Eigensinn"/>
+<node id="der Menschenwelt"/>
+<node id="Affentum"/>
+<node id="den Handschlag"/>
+<node id="heute"/>
+<node id="das offene Wort"/>
+<node id="Ein Bericht"/>
+<node id="manche gute Flasche Rotwein"/>
+<node id="den widerlichen, ganz und gar unzutreffenden, förmlich von einem Affen erfundenen Namen Rotpeter"/>
+<node id="Peter"/>
+<node id="irgendeines der zehntausend Windhunde"/>
+<node id="einen wohlgepflegten Pelz"/>
+<node id="Der zweite Schuß"/>
+<node id="jeder Großgesinnte"/>
+<node id="die allerfeinsten Manieren"/>
+<node id="eine solche Verwahrung wilder Tiere"/>
+<node id="die Menschen"/>
+<node id="eine durchlaufende Lücke"/>
+<node id="Ausweg"/>
+<node id="einem Käfig im Zwischendeck des Hagenbeckschen Dampfers"/>
+<node id="Ein klarer, schöner Gedankengang"/>
+<node id="Freiheit"/>
+<node id="die entsprechende Täuschung"/>
+<node id="Menschenfreiheit"/>
+<node id="der heiligen Natur"/>
+<node id="größte innere Ruhe"/>
+<node id="den Leuten vom Schiff"/>
+<node id="den Klang ihrer schweren Schritte"/>
+<node id="Ihre Scherze"/>
+<node id="des Hagenbeckschen Dampfers"/>
+<node id="Zwischendeck des Hagenbeckschen Dampfers"/>
+<node id="häßliche Erinnerungen"/>
+<node id="einen noch schlimmeren Käfig"/>
+<node id="Verzweiflungstaten"/>
+<node id="Ein hohes Ziel"/>
+<node id="trüben Blick dieser Menschen"/>
+<node id="Der Geruch"/>
+<node id="allmählicher Erkenntnis"/>
+<node id="die Schnapsflasche"/>
+<node id="einer"/>
+<node id="seiner riesigen guten Hand"/>
+<node id="die Affennatur"/>
+<node id="den schwereren Teil"/>
+<node id="Varieté"/>
+<node id="Zoologischer Garten"/>
+<node id="meine Zukunft"/>
+<node id="meinen Fortschritten"/>
+<node id="die Durchschnittsbildung eines Europäers"/>
+<node id="eine ausgezeichnete deutsche Redensart"/>
+<node id="eine kleine halbdressierte Schimpansin"/>
+<node id="Goldküste"/>
+<node id="inmitten eines Rudels"/>
+<node id="Affen"/>
+<node id="Hamburg"/>
+<node id="erwachende Hirn"/>
+<node id="dem Bauch"/>
+<node id="mein äffisches Vorleben"/>
+<edge source="Rotpeter" target="Hohe Herren von der Akademie" id="0">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Hohe Herren von der Akademie" id="1">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="vortrefflichen Menschen" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Rotpeter" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Rotpeter" id="1">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Rotpeter" id="2">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Rotpeter" id="3">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Rotpeter" id="4">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Rotpeter" id="5">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Rotpeter" id="6">
+  <data key="d0">epistemic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Rotpeter" id="7">
+  <data key="d0">epistemic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Rotpeter" id="8">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Rotpeter" id="9">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Rotpeter" id="10">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Rotpeter" id="11">
+  <data key="d0">epistemic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Rotpeter" id="12">
+  <data key="d0">epistemic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Rotpeter" id="13">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Rotpeter" id="14">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Rotpeter" target="Rotpeter" id="15">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Rotpeter" target="jeden Eigensinn" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Verzicht auf jeden Eigensinn" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="der Menschenwelt" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Affentum" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="den Handschlag" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="heute" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="das offene Wort" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Ein Bericht" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="manche gute Flasche Rotwein" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="den widerlichen, ganz und gar unzutreffenden, förmlich von einem Affen erfundenen Namen Rotpeter" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Peter" id="0">
+  <data key="d0">social status</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="irgendeines der zehntausend Windhunde" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="irgendeines der zehntausend Windhunde" id="1">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="irgendeines der zehntausend Windhunde" id="2">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="irgendeines der zehntausend Windhunde" id="3">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="einen wohlgepflegten Pelz" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Der zweite Schuß" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="jeder Großgesinnte" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="die allerfeinsten Manieren" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="eine solche Verwahrung wilder Tiere" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="eine durchlaufende Lücke" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Ausweg" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="einem Käfig im Zwischendeck des Hagenbeckschen Dampfers" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Ein klarer, schöner Gedankengang" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="die Menschen" id="0">
+  <data key="d0">epistemic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="die Menschen" id="1">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="die Menschen" id="2">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Freiheit" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="die entsprechende Täuschung" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Menschenfreiheit" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Menschenfreiheit" id="1">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="der heiligen Natur" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="größte innere Ruhe" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="größte innere Ruhe" id="1">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="den Leuten vom Schiff" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="den Leuten vom Schiff" id="1">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="den Leuten vom Schiff" id="2">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="den Leuten vom Schiff" id="3">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="den Leuten vom Schiff" id="4">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="den Leuten vom Schiff" id="5">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Rotpeter" target="den Klang ihrer schweren Schritte" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Ihre Scherze" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Ihre Scherze" id="1">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="des Hagenbeckschen Dampfers" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Zwischendeck des Hagenbeckschen Dampfers" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="häßliche Erinnerungen" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="einen noch schlimmeren Käfig" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Verzweiflungstaten" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Ein hohes Ziel" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="trüben Blick dieser Menschen" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Der Geruch" id="0">
+  <data key="d0">aesthetic</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="allmählicher Erkenntnis" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="die Schnapsflasche" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="die Schnapsflasche" id="1">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="einer" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="einer" id="1">
+  <data key="d0">moral</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="einer" id="2">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="seiner riesigen guten Hand" id="0">
+  <data key="d0">moral</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="die Affennatur" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="den schwereren Teil" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Varieté" id="0">
+  <data key="d0">eudaemonistic</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="Zoologischer Garten" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="meine Zukunft" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="meinen Fortschritten" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="die Durchschnittsbildung eines Europäers" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="eine ausgezeichnete deutsche Redensart" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="eine kleine halbdressierte Schimpansin" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="Rotpeter" target="eine kleine halbdressierte Schimpansin" id="1">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Rotpeter" target="Affen" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Rotpeter" target="mein äffisches Vorleben" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Hohe Herren von der Akademie" target="Rotpeter" id="0">
+  <data key="d0">social status</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="der Menschenwelt" target="Goldküste" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="irgendeines der zehntausend Windhunde" target="Rotpeter" id="0">
+  <data key="d0">other</data>
+  <data key="d1">-1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="die Menschen" target="eine solche Verwahrung wilder Tiere" id="0">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">evaluation</data>
+</edge>
+<edge source="einem Käfig im Zwischendeck des Hagenbeckschen Dampfers" target="inmitten eines Rudels" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="den Leuten vom Schiff" target="Rotpeter" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Varieté" target="Goldküste" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Zoologischer Garten" target="Goldküste" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="eine kleine halbdressierte Schimpansin" target="Rotpeter" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Goldküste" target="der Menschenwelt" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Goldküste" target="Hamburg" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Goldküste" target="Varieté" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Goldküste" target="Zoologischer Garten" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="inmitten eines Rudels" target="einem Käfig im Zwischendeck des Hagenbeckschen Dampfers" id="0">
+  <data key="d0">Value Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Affen" target="Rotpeter" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="Hamburg" target="Goldküste" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="erwachende Hirn" target="dem Bauch" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="dem Bauch" target="erwachende Hirn" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+<edge source="mein äffisches Vorleben" target="Rotpeter" id="0">
+  <data key="d0">Encoding Opposition</data>
+  <data key="d2">opposition</data>
+</edge>
+</graph></graphml>
