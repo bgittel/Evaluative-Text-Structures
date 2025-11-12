@@ -1,1 +1,3 @@
-This repository contains code and data to support *Benjamin Gittel*'s paper: *Implicit Messages of Narratives and Evaluative Text Structures: A Network-based Approach*.
+This repository contains code and data to support this paper: 
+*Benjamin Gittel*: *Implicit Messages of Narratives and Evaluative Text Structures: A Network-based Approach*. In: Scientific Study of Literature 2025.
+
